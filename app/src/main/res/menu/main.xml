@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+
+        android:title="Home"
+        />
+    <item
+        android:id="@+id/signin"
+
+        android:title="Sign In"
+        />
+    <item
+        android:id="@+id/login"
+        android:title="Log in"
+        />
+    <item
+        android:id="@+id/gallery"
+        android:title="From gallery"
+        />
+    <item
+        android:id="@+id/image"
+        android:title="Take image"
+        />
+    <item
+        android:id="@+id/chat"
+        android:title="Chat"
+        />
+    <item
+        android:id="@+id/googlepay"
+        android:title="Google pay"
+        />
+    <item
+        android:id="@+id/notification"
+        android:title="Notification"
+        />
+</menu>
